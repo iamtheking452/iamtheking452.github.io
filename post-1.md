@@ -1,5 +1,5 @@
 # I am a chinese,I love China
 
-![china](http://image.baidu.com/search/index?tn=baiduimage&ps=1&ct=201326592&lm=-1&cl=2&nc=1&ie=utf-8&word=%E4%B8%AD%E5%9B%BD)
+![china](http://h.hiphotos.baidu.com/image/h%3D300/sign=7c0d8175855494ee982209191df7e0e1/c2cec3fdfc039245595be1c58e94a4c27c1e2509.jpg）
 
 
