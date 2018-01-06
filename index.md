@@ -4,4 +4,4 @@
 
 ## [The second page](https://iamtheking452.github.io/The second pages)
 
-## [The third page](https://github.com/iamtheking452/iamtheking452.github.io/blob/master/%E7%8F%AD%E5%BE%BD.jpg）
+## [The third page](http://iamtheking452.github.io/班徽）
