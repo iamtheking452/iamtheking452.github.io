@@ -6,4 +6,4 @@
 * * *
 ![B-picture](https://raw.githubusercontent.com/iamtheking452/iamtheking452.github.io/master/%E7%8F%AD%E5%BE%BD.jpg)
 * * *
-[music-1](http://music.yiqikanba.cn/search.php)
+[music-1](http://music.163.com/#/song?id=25906124)
