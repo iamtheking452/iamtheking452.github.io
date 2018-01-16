@@ -1,4 +1,5 @@
-# Hello world,this is L'blog.**I am not sure how to use github.**
+# Hello world,this is L'blog.
+## **I am not sure how to use github.**
  
 ## [The first page.](https://iamtheking452.github.io/post-1)
 
