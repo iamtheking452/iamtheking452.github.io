@@ -1,7 +1,7 @@
 # Hello world,this is L'blog.
 ## **I am not sure how to use github.**
  
-## [The first page.](https://iamtheking452.github.io/post-1)
+## [The first](https://iamtheking452.github.io/post-1)
 
 ## [The second page](https://iamtheking452.github.io/The-second-pages)
 
