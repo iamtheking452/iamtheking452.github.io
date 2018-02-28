@@ -9,3 +9,4 @@
 
 ![pixiv](https://github.com/iamtheking452/iamtheking452.github.io/blob/master/pixiv46228691.jpg)
 * * *
+[随想](https://iamtheking452.github.io/suixiang-1)
