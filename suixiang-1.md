@@ -14,3 +14,5 @@
 如今听着老唱片抽着烟，羡窗外纸鸢。
 
 它就像小鹿跳跃着，迎着雨点唱着歌。
+
+![300](https://github.com/iamtheking452/iamtheking452.github.io/blob/master/300.png)
